@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey there, It's Ahmed Taei! 👋
 
-<!--
-**asaadaldien/asaadaldien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and applied mathematician, the blend of both disciplines defines my work. I develop systems, algorithms, compilers, and languages for AI and numerical computing generally, so my work usually resides at the intersection of all of that.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently, I'm working on [mojo](https://www.modular.com/max/mojo) 🔥 on GPUs at [Modular](https://www.modular.com/).
+- 📚 In my previous endeavors, I developed distributed ML training systems / algorithms, DSLs for ML kernels on custom silicon , built compilers and runtime stack from the ground up for ML accelerators. Part of this work involved contributions to opensource projects like OpenXLA/IREE Compiler, PyTorch, TensorFlow, and Caffe2.
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/astaei/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/ASAADALDIEN)
