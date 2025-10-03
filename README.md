@@ -10,4 +10,5 @@ I'm a software engineer and applied mathematician, the blend of both disciplines
 ## Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/astaei/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/ASAADALDIEN)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/ASAADALDIEN)
+[![Resume](https://img.shields.io/badge/Resume-View-green)](./resume.md)  
