@@ -1,9 +1,5 @@
 # Ahmed Taei  
 
-📞 425-777-5692  
-✉️ [ahmed.taei@gmail.com](mailto:ahmed.taei@gmail.com)  
-🌐 [GitHub](http://github.com/asaadaldien) | [LinkedIn](https://www.linkedin.com/in/astaei/) | [Twitter](https://twitter.com/ASAADALDIEN)  
-
 ## 💼 Work Experience  
 
 ### NVIDIA – *Principal Engineer*
