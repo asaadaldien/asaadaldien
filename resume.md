@@ -3,11 +3,11 @@
 ## 💼 Work Experience  
 
 ### NVIDIA – *Principal Engineer*
-*Redmond, WA | Jan 2024 – Present*  
+*Redmond, WA | Jan 2025 – Present*  
 - CUTASS, CuTeDSL & Fast kernels.   
 
 ### Modular – *Mojo GPU Kernel Engineer*  
-*Remote | Sept 2023 – Jan 2024*  
+*Remote | Sept 2023 – Jan 2025*  
 - Spearheaded development of the GPU kernel stack for **Mojo 🔥** programming language.  
 - Led design of Mojo’s **unified programming model** for GPU/CPU kernels.  
 
