@@ -4,7 +4,7 @@ I'm a software engineer and applied mathematician, the blend of both disciplines
 
 ## About Me  
 - **Joined NVIDIA (2025–present)**  
-- **2023–2024 @ Modular**: [Mojo 🔥](https://www.modular.com/max/mojo) on GPUs at [Modular](https://www.modular.com/). Part of this work was presented as an LLVM talk: [Watch here](https://www.youtube.com/watch?v=sOZWhPVvRdw).  
+- **2023–2025 @ Modular**: [Mojo 🔥](https://www.modular.com/max/mojo) on GPUs at [Modular](https://www.modular.com/). Part of this work was presented as an LLVM talk: [Watch here](https://www.youtube.com/watch?v=sOZWhPVvRdw).  
 - 📚 In my previous endeavors, I developed distributed ML training systems / algorithms, DSLs for ML kernels on custom silicon, built compilers and runtime stack from the ground up for ML accelerators. Part of this work involved contributions to open-source projects like **OpenXLA/IREE Compiler, PyTorch, TensorFlow, and Caffe2**.  
 
 ## Connect with Me  
